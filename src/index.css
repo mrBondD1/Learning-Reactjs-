@@ -97,3 +97,8 @@ button{
     }
 
 }
+
+p{
+  color: rgb(80, 78, 78);
+  font-size: 1rem;
+}
